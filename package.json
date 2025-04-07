@@ -1,0 +1,25 @@
+{
+  "name": "cafemenu",
+  "version": "1.0.0",
+  "description": "Using HTML and CSS to create a cafe menu for a coffee shop",
+  "main": "index.js",
+  "scripts":
+  {
+     "start": "http-server ./public & open http://localhost:8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skipper215/CafeMenu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skipper215/CafeMenu/issues"
+  },
+  "homepage": "https://github.com/skipper215/CafeMenu#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
